@@ -24,7 +24,7 @@ def div(a, b):
 print("A. Addition")
 print("B. Subtraction")
 print("C. Multiplication")
-print("D. Multiplication")
+print("D. Division")
 print("E. Exit")
 
 choice = input("Enter your choice: ")
