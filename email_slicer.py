@@ -13,4 +13,5 @@ def main():
   print("Domain: ", domain)
   print("Extension: ", extension)
 
-main()
+while True:
+  main()
